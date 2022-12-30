@@ -1,0 +1,10 @@
+.button__list {
+  display: inline-block;
+}
+
+.button__feedback {
+  margin-right: 15px;
+  min-width: 100px;
+  padding: 8px;
+  font-weight: bold;
+}
